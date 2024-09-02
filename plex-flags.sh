@@ -1,6 +1,6 @@
 #!/bin/bash
 # Path where the flag images are stored
-flag_path="/mnt/user/data/media/flags"
+flag_path="/mnt/user/vault/plex-flags/flags"
 # Path to the poster
 flink=$(readlink -f folder.jpg)
 # Get the width of the folder image
